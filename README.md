@@ -1,6 +1,6 @@
 # Pocket Ledger
 
-**Pocket Ledger** é uma aplicação projetada para facilitar o gerenciamento de tarefas, transações ou informações de maneira simples e eficiente.
+**Pocket Ledger** é uma aplicação projetada para facilitar o planejamento financeiro através de uma ferramenta corriqueira do dia a dia como o WhatsApp de maneira simples e eficiente.
 
 ## 🚀 Funcionalidades
 
