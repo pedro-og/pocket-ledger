@@ -1,0 +1,16 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar cache do wwebjs
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignorar arquivos temporários de editores
+*.swp
+
+# Ignorar arquivos sensíveis
+credentials.json
+
+# Ignorar arquivos de mídia grandes
+pocketbot.mp4
+
